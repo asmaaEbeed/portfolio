@@ -62,7 +62,7 @@ $(document).ready(function($) {
         setTimeout(function(){
             
             $("body").addClass("loading-done");
-        }, 3000)
+        }, 2000)
         $("#ts-hero .ts-bubble-border").each(function(){
             var $this = $(this);
             var $active = $(this).find(".active");
