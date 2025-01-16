@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'cairo';
+    src: url('../fonts/cairo.ttf');
+}
+
+* {
+    font-family: "cairo", sans-serif, Tahoma, Geneva, Verdana;;
+}
+
+.ts-bubble-border .ts-title-rotate {
+    right: 0;
+}
+
+
+.usp {
+    line-height: 40px;
+}
+.ts-left__0 {
+    left: auto;
+    right: 0% !important;
+}
+.navbar-brand {
+    bottom: 64px;
+    right:auto;
+    left: 15px;
+}
+.navbar-toggler {
+    margin-left: auto;
+    margin-top: .9rem;
+    margin-bottom: .9rem;
+    margin-right: 3px;
+}
